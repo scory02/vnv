@@ -11,7 +11,7 @@ echarts高效封装，数据持久化等
 # 安装
     ```
     # 克隆项目
-    git clone https://github.com/scory02/scory.git
+    git clone https://github.com/scory02/vnv.git
 
     # 进入项目目录
     cd scory
